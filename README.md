@@ -1,8 +1,7 @@
-# Hello GitHub
+# Hello Brilliant GitHub
 
 This is a README.md file that will be used to describe this
-repository on GitHub.
+repository on GitHub
 
-Extra line text added to copy of README.md in cloned repository
-
-Extra extra line added to original README.md in original repository
+This is an extra line of text added to the copy
+of README.md in the cloned repository
